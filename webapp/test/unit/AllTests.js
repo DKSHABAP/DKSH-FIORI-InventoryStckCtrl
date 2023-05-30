@@ -1,0 +1,1 @@
+sap.ui.define(["dksh/com/InventoryStck/test/unit/controller/inventory.controller"],function(){"use strict"});
